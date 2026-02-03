@@ -1,0 +1,1 @@
+IIRC, I was working on this with a friend of mine back in 2021. It _should_ be a working implementation of a Cuckoo Filter.
